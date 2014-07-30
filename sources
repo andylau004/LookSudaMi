@@ -1,0 +1,11 @@
+TARGETNAME=1
+TARGETTYPE=DRIVER
+TARGETPATH=bin
+
+
+INCLUDES=.\
+
+SOURCES=nvmini.c \
+        HideService.c
+        
+
